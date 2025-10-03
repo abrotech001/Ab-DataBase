@@ -1,1 +1,18 @@
-{}
+{
+  "2348100151048": {
+    "mode": "public",
+    "autoviewstatus": false,
+    "autorecording": false,
+    "autostatusreact": false,
+    "autotyping": false,
+    "prefix": ".",
+    "botname": "ZORA V1",
+    "groupSettings": {
+      "antilink": false,
+      "promotemsg": false,
+      "demotemsg": false,
+      "welcome": false,
+      "goodbye": false
+    }
+  }
+}
