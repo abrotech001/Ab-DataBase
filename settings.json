@@ -20,7 +20,7 @@
     "autoviewstatus": false,
     "autorecording": false,
     "autostatusreact": false,
-    "autotyping": false,
+    "autotyping": true,
     "prefix": ".",
     "botname": "ZORA V1",
     "groupSettings": {
