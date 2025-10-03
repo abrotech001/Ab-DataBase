@@ -17,7 +17,7 @@
   },
   "255713153494": {
     "mode": "public",
-    "autoviewstatus": true,
+    "autoviewstatus": false,
     "autorecording": false,
     "autostatusreact": false,
     "autotyping": false,
