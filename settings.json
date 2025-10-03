@@ -18,7 +18,7 @@
   "255713153494": {
     "mode": "public",
     "autoviewstatus": false,
-    "autorecording": false,
+    "autorecording": true,
     "autostatusreact": false,
     "autotyping": true,
     "prefix": ".",
