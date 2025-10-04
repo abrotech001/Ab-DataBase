@@ -30,5 +30,21 @@
       "welcome": false,
       "goodbye": false
     }
+  },
+  "2347053138721": {
+    "mode": "public",
+    "autoviewstatus": false,
+    "autorecording": false,
+    "autostatusreact": false,
+    "autotyping": false,
+    "prefix": ".",
+    "botname": "ZORA V1",
+    "groupSettings": {
+      "antilink": false,
+      "promotemsg": false,
+      "demotemsg": false,
+      "welcome": false,
+      "goodbye": false
+    }
   }
 }
